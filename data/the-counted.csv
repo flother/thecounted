@@ -898,6 +898,7 @@ name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,cause,lawe
 "Christopher Whitmarsh","49","Male","Unknown","October","10","2015","Balch St","Beverly","MA","Gunshot","Beverly Police Department","Vehicle"
 "Unknown","Unknown","Male","Unknown","October","11","2015","W 5th St and Interocean Ave","San Bernardino","CA","Gunshot","San Bernardino Police Department","Unknown"
 "Unknown","35","Male","Unknown","October","10","2015","4400 Yender Ave","Lisle","IL","Gunshot","Lisle Police Department","Unknown"
-"Unknown","Unknown","Male","White","October","10","2015","Snow Cap Ave","Pinon Hills","CA","Gunshot","San Berardino County Sheriff's Department","Unknown"
+"William Combs","38","Male","White","October","10","2015","Snow Cap Ave","Pinon Hills","CA","Gunshot","San Berardino County Sheriff's Department","Unknown"
 "Robert Medellin","43","Male","Unknown","October","11","2015","5200 W 40th St","Odessa","TX","Gunshot","Ector County Sheriff's Office","Knife"
 "Unknown","Unknown","Male","Black","October","12","2015","SW Sheridan Rd and SW I Ave","Lawton","OK","Gunshot","Lawton Police Department","Unknown"
+"Rudolph Smith","31","Male","White","October","12","2015","Union St","Brookhaven","MS","Gunshot","Brookhaven Police Department","Firearm"
