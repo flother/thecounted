@@ -907,3 +907,7 @@ name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,cause,lawe
 "Unknown","Unknown","Female","Unknown","October","15","2015","S Jones Blvd and W Spring Mountain Rd","Las Vegas","NV","Gunshot","Las Vegas Metropolitan Police Department","Unknown"
 "Unknown","Unknown","Male","Unknown","October","14","2015","US-31","Evergreen","AL","Gunshot","Conecuh County Sheriff's Office, Alabama Department of Public Safety","Firearm"
 "Unknown","Unknown","Male","Unknown","October","15","2015","2660 Noe Bixby Rd","Columbus","OH","Gunshot","Columbus Police Department","Firearm"
+"Unknown","Unknown","Male","Unknown","October","14","2015","900 Shadow Palm Ave","Indio","CA","Gunshot","Indio Police Department","Vehicle"
+"Michael Clark","59","Male","Unknown","October","14","2015","3 Geary Plaza","Seaside","CA","Gunshot","Seaside Police Department","Firearm"
+"Unknown","20s","Male","Unknown","October","15","2015","Market St and 8th St","San Francisco","CA","Gunshot","San Francisco Police Department","Unknown"
+"Michael Brennan","31","Male","Unknown","October","15","2015","I-480","Cleveland","OH","Gunshot","Parma Police Deparment, Parma Heighs Police Department, Brooklyn Police Department","Firearm"
