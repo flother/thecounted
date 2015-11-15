@@ -994,3 +994,4 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1013","Moises Nerio","42","Male","Hispanic/Latino","November","12","2015","1200 Ayala Dr","Sunnyvale","CA","Gunshot","Sunnyvale Bureau of Police Services","Knife"
 "1014","Matthew Coleman","20s","Male","Unknown","November","13","2015","1200 US-80","Eden","GA","Gunshot","Effingham County Sheriff's Office","Firearm"
 "1015","Michael Bartkiewicz","52","Male","Unknown","November","13","2015","26 Petty Ln","Trenton","TN","Gunshot","Gibson County Sheriff's Office","Firearm"
+"1016","Unknown","Unknown","Male","Unknown","November","13","2015","Rouselle Dr and Wysocki Ln","Jurupa Valley","CA","Gunshot","Riverside County Sheriff's Department","Unknown"
