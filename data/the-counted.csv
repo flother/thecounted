@@ -1018,3 +1018,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1038","Michael Marshall","50","Male","Black","November","11","2015","490 W Colfax Ave","Denver","CO","Death in custody","Denver Sheriff Department","No"
 "1039","William Tarrant","39","Male","White","November","20","2015","200 Mt Vernon Church Rd","Dallas","GA","Gunshot","Paulding County Sheriff's Office","Firearm"
 "1040","Unknown","Unknown","Male","Unknown","November","20","2015","Tangelo Ave & San Jacinto Ct","Fontana","CA","Gunshot","Fontana Police Department","Firearm"
+"1041","Christopher Nichols","24","Male","Unknown","November","21","2015","","Colbert","OK","Gunshot","Colbert Police Department","No"
+"1042","Unknown","47","Male","Unknown","November","22","2015","10510 Sierra Ave","Fontana","CA","Gunshot","Fontana Police Department","Knife"
+"1043","Chase Sherman","32","Male","White","November","20","2015","","Coweta County","GA","Taser","Coweta County Sheriff’s Department","No"
