@@ -1042,3 +1042,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1064","Darius Smith","18","Male","Black","November","30","2015","300 Spring St NW","Atlanta","GA","Gunshot","Atlanta Police Department","Firearm"
 "1065","Joshua Jozefowicz","23","Male","Unknown","December","1","2015","1105 Hammond St","Bangor","ME","Gunshot","Bangor Police Department","Unknown"
 "1066","Unknown","Unknown","Male","Unknown","December","1","2015","Imperial Hwy and Pioneer Blvd","Norwalk","CA","Gunshot","Los Angeles County Sheriff's Department","Firearm"
+"1067","Syed Farook","28","Male","Unknown","December","2","2015","1800 E San Bernardino Ave","Redlands","CA","Gunshot","Unknown","Firearm"
+"1068","Tashfeen Malik","27","Female","Unknown","December","2","2015","1800 E San Bernardino Ave","Redlands","CA","Gunshot","Unknown","Firearm"
+"1069","Unknown","Unknown","Male","Unknown","December","2","2015","2900 Keith St","San Francisco","CA","Gunshot","San Francisco Police Department","Knife"
