@@ -1050,3 +1050,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1072","Phillip Munoz","35","Male","Unknown","December","2","2015","Lowell Blvd and W 25th Ave","Denver","CO","Gunshot","Denver Police Department","Unknown"
 "1073","Allen Pacheco","32","Male","Unknown","December","2","2015","Texas Hwy 16","San Antonio","TX","Gunshot","Texas Department of Public Safety","No"
 "1074","David Winesett","52","Male","White","December","5","2015","Alton Rd","Miami Beach","FL","Gunshot","Miami Beach Police Department","Other"
+"1075","Florencio Lucero","36","Male","Unknown","December","2","2015","S Country Club Rd","Deming","NM","Gunshot","Deming Police Department","Firearm"
+"1076","Sheilah Huck","61","Female","Unknown","December","5","2015","6600 Foothills Ct","Florissant","MO","Gunshot","St Louis County Police Department","Firearm"
+"1077","Unknown","30s","Male","White","December","6","2015","35th Ave NE and NE 68th St","Seattle","WA","Gunshot","Seattle Police Department","Firearm"
+"1078","Colten Marcellus","24","Male","Unknown","December","5","2015","600 Jeff Ct","Irving","TX","Gunshot","Irving Police Department","Firearm"
