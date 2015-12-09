@@ -1057,3 +1057,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1079","Michael Funk","60","Male","White","December","5","2015","206 Main St","Neenah","WI","Gunshot","Neenah Police Department","Firearm"
 "1080","John Britton","48","Male","Unknown","December","6","2015","Wyoming Hwy 130","Laramie","WY","Gunshot","Albany County Sheriff's Office","Knife"
 "1081","Unknown","38","Male","Unknown","December","5","2015","Avery Dr","Indio","CA","Gunshot","Indio Police Department","Firearm"
+"1082","Dimitrie Penny","32","Male","Unknown","December","9","2015","1170 Apalachee Pkwy","Tallahassee","FL","Gunshot","Tallahassee Police Department","Firearm"
+"1083","Miguel Espinal","36","Male","Black","December","8","2015","Saw Mill River Pkwy","Yonkers","NY","Gunshot","New York Police Department","No"
+"1084","Nicholas Gilbert","27","Male","White","December","8","2015","919 N Jefferson Ave","St Louis","MO","Death in custody","St Louis Metropolitan Police Department","No"
