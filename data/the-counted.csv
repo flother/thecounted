@@ -1091,5 +1091,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1113","Bryant Duncan","23","Male","Unknown","December","16","2015","200 Carmen Dr","Camarillo","CA","Gunshot","Ventura County Sheriff's Office","Knife"
 "1114","Douglas Yon","25","Male","Unknown","December","17","2015","600 Virginia Ave","Kent","OH","Gunshot","Kent Police Department","Other"
 "1115","Ronnie Carr","51","Male","Black","December","15","2015","US-321","Dallas","NC","Gunshot","Dallas Police Department","Vehicle"
-"1116","Unknown","22","Female","Unknown","December","18","2015","1900 Lear Dr","Northwood","OH","Gunshot","Northwood Police Department, Oregon Police Division","Firearm"
+"1116","Erica Lauro","22","Female","White","December","18","2015","1900 Lear Dr","Northwood","OH","Gunshot","Northwood Police Department, Oregon Police Division","Firearm"
 "1117","Unknown","Unknown","Male","Unknown","December","17","2015","801 10th St","Modesto","CA","Gunshot","Modesto Police Department","Firearm"
+"1118","Edel Moreland","32","Male","Unknown","December","18","2015","Homewood Rd","Linthicum Heights","MD","Gunshot","Baltimore Police Department","Non-lethal firearm"
