@@ -1122,6 +1122,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1144","Unknown","Unknown","Male","Unknown","December","25","2015","600 Forest Ave","Palo Alto","CA","Gunshot","Palo Alto Police Department","Knife"
 "1145","Bettie Jones","55","Female","Black","December","26","2015","4700 W Erie St","Chicago","IL","Gunshot","Chicago Police Department","No"
 "1146","Quintonio LeGrier","19","Male","Black","December","26","2015","4700 W Erie St","Chicago","IL","Gunshot","Chicago Police Department","Unknown"
-"1147","Lonnie Niesen","41","Male","Unknown","December","26","2015","12220 N 39th Ave","Phoenix","AZ","Gunshot","Phoenix Police Department","Other"
+"1147","Lonnie Niesen","41","Male","White","December","26","2015","12220 N 39th Ave","Phoenix","AZ","Gunshot","Phoenix Police Department","Other"
 "1148","Unknown","Unknown","Male","Unknown","December","27","2015","MS-26 and Henry Cochran Rd","Lucedale","MS","Gunshot","George County Sheriff's Office","Unknown"
 "1149","Sean Mould","34","Male","White","December","27","2015","1000 E Fremont Dr","Tempe","AZ","Gunshot","Tempe Police Dpeartment","Knife"
