@@ -21,7 +21,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "18","Ronald Sneed","32","Male","Black","January","7","2015","310 Yaupon St","Freeport","TX","Gunshot","Freeport Police Department","Firearm"
 "22","Artago Howard","36","Male","Black","January","8","2015","9661 Strong Hwy","Strong","AR","Gunshot","Union County Sheriff's Office","No"
 "19","Omarr Jackson","37","Male","Black","January","8","2015","Lasalle St and Josephine St","New Orleans","LA","Gunshot","New Orleans Police Department","Firearm"
-"21","Loren Simpson","28","Male","White","January","8","2015","3540 White Buffalo Rd","Huntley","MT","Gunshot","Yellowstone County Sheriff's Office","Vehicle"
+"21","Loren Simpson","28","Male","White","January","8","2015","3540 White Buffalo Rd","Huntley","MT","Gunshot","Yellowstone County Sheriff's Office","No"
 "23","James Barker","42","Male","White","January","8","2015","584 E 2nd Ave","Salt Lake City","UT","Gunshot","Salt Lake City Police Department","Other"
 "24","Thomas Hamby","49","Male","White","January","8","2015","2964 W 2125 S","Syracuse","UT","Gunshot","Syracuse Police Department, Davis County Sheriff's Office","Firearm"
 "26","Jimmy Foreman","71","Male","White","January","9","2015","422 SE 3rd St","England","AR","Gunshot","England Police Department","Firearm"
