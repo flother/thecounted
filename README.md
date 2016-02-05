@@ -14,19 +14,19 @@ That's where this comes in: the ZIP file is checked every twenty minutes for cha
 
 ## Repository contents
 
-Data extracted from the source ZIP file is kept in the [`data` directory] [7] on the master branch. No alterations are made to the files themselves and all the hard work is done by the Guardian's staff. Everything outside of the `data` directory is _not_ part of the source data and is only there to support keeping it in this repo.
+Data extracted from the source ZIP file is kept in the [`data` directory] [8] on the master branch. No alterations are made to the files themselves and all the hard work is done by the Guardian's staff. Everything outside of the `data` directory is _not_ part of the source data and is only there to support keeping it in this repo.
 
 # Keeping track of the data
 
 The nerdiest way is to clone the repository and pull regularly, but if you're not of the nerd persuasion then you have a few other options:
 
-* If you have an account on GitHub you can [watch the repository] [8]. Changes to the repo will then appear on [your dashboard] [9] when you're logged in
-* If you don't have an account on GitHub you can bookmark the [commits page] [10]. New messages there mean new updates to the repo
-* You can subscribe to the [Atom (like RSS) feed] [11]. Any updates to the repo will then appear in your feed reader of choice
+* If you have an account on GitHub you can [watch the repository] [9]. Changes to the repo will then appear on [your dashboard] [10] when you're logged in
+* If you don't have an account on GitHub you can bookmark the [commits page] [11]. New messages there mean new updates to the repo
+* You can subscribe to the [Atom (like RSS) feed] [12]. Any updates to the repo will then appear in your feed reader of choice
 
 ## History of changes in 2015
 
-While there are now two CSV data files, one for 2015 and one for 2016, there was originally only one file in the Guardian's ZIP file, `data/the-counted.csv`. On 4 February 2016 the file was renamed to `data/the-counted-2015.csv`. Constraints in the Git version control software means the full commit history isn't available for the new file, but you can [see the deleted file's history, until 3 February 2016, on Github] [12]. If you're a command-line aficionado you can clone the repo and use `git log --follow -- data/the-counted.csv`.
+While there are now two CSV data files, one for 2015 and one for 2016, there was originally only one file in the Guardian's ZIP file, `data/the-counted.csv`. On 4 February 2016 the file was renamed to `data/the-counted-2015.csv`. Constraints in the Git version control software means the full commit history isn't available for the new file, but you can [see the deleted file's history, until 3 February 2016, on Github] [13]. If you're a command-line aficionado you can clone the repo and use `git log --follow -- data/the-counted.csv`.
 
 # Support
 
