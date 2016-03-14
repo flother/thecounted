@@ -205,3 +205,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016205","Unknown","Unknown","Male","Unknown","March","12","2016","Parker St and Union St","Chester","PA","Gunshot","Chester Police Department","Firearm"
 "2016206","Joshua Grubb","Unknown","Male","Unknown","March","13","2016","I-75 and Highway 321","Lenoir City","TN","Gunshot","Lenoir City Police Department","No"
 "2016207","Unknown","Unknown","Male","Unknown","March","12","2016","3833 Cypress Creek Pkwy","Houston","TX","Gunshot","Harris County Sheriff's Office","No"
+"2016208","Wesley 'Chad' Deerman","26","Male","White","March","13","2016","Sanford Rd","Piedmont","AL","Gunshot","Piedmont Police Department","Firearm"
+"2016209","Unknown","45","Male","Unknown","March","13","2016","100 S Glendale Ave","Glendale","CA","Gunshot","West Covina Police Department","Unknown"
+"2016210","Unknown","Unknown","Female","Unknown","March","13","2016","9600 NE 81st St","Vancouver","WA","Gunshot","Clark County Sheriff's Office","Knife"
