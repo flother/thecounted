@@ -238,3 +238,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016239","Dylan Pape","25","Male","White","March","21","2016","119 Wedgemere Rd","Stamford","CT","Gunshot","Stamford Police Department","Firearm"
 "2016241","Ethan Rincon","25","Male","Unknown","March","22","2016","8800 SW 183rd Terrace","Palmetto Bay","FL","Gunshot","Miami-Dade Police Department","Other"
 "2016242","Unknown","Unknown","Male","Unknown","March","23","2016","Grant St","Thornton","CO","Gunshot","Thornton Police Department","Firearm"
+"2016243","Unknown","30","Male","Black","March","23","2016","3400 Dillard Rd","Memphis","TN","Gunshot","Memphis Police Department","Firearm"
+"2016244","Robert Dussourd","44","Male","White","March","24","2016","E Division St","Braintree","MA","Gunshot","Braintree Police Department","Knife"
+"2016245","Unknown","20s","Male","Hispanic/Latino","March","23","2016","N Blackstone Ave","Fresno","CA","Gunshot","Fresno Police Department","Firearm"
+"2016246","Unknown","Unknown","Male","Unknown","March","24","2016","2600 E 8th St","Pueblo","CO","Gunshot","Unknown","Unknown"
