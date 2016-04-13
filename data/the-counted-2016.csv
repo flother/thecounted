@@ -289,4 +289,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016290","William Clark","30","Male","Unknown","April","10","2016","1061 Roberta Rd","Rotterdam","NY","Gunshot","Rotterdam Police Department","Knife"
 "2016291","Pierre Loury","16","Male","Black","April","11","2016","3400 W Grenshaw St","Chicago","IL","Gunshot","Chicago Police Department","Unknown"
 "2016292","Unknown","Unknown","Male","Unknown","April","11","2016","2000 Paradise Rd","Las Vegas","NV","Gunshot","Las Vegas Metropolitan Police Department","Unknown"
-"2016293","Unknown","Unknown","Male","Unknown","April","12","2016","Bannock St and W 14th Ave Pkwy","Denver","CO","Gunshot","Unknown","Unknown"
+"2016293","Unknown","Unknown","Male","Unknown","April","12","2016","Bannock St and W 14th Ave Pkwy","Denver","CO","Gunshot","Unknown","No"
+"2016294","Travis Wood","20","Male","White","April","12","2016","","Noma","FL","Gunshot","Holmes County Sheriff's Office","Unknown"
+"2016295","Unknown","Unknown","Male","Unknown","April","13","2016","Knickerbocker Dr","Stocton","CA","Gunshot","Stockton Police Department","Unknown"
