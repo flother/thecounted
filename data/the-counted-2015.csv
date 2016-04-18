@@ -996,7 +996,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1013","Moises Nerio","42","Male","Hispanic/Latino","November","12","2015","1200 Ayala Dr","Sunnyvale","CA","Gunshot","Sunnyvale Bureau of Police Services","Knife"
 "1016","Ernesto Gamino","25","Male","Hispanic/Latino","November","13","2015","Rouselle Dr and Wysocki Ln","Jurupa Valley","CA","Gunshot","Riverside County Sheriff's Department","Unknown"
 "1014","Matthew Coleman","25","Male","White","November","13","2015","1200 US-80","Eden","GA","Gunshot","Effingham County Sheriff's Office","Firearm"
-"1015","Michael Bartkiewicz","52","Male","White","November","13","2015","26 Petty Ln","Trenton","TN","Gunshot","Gibson County Sheriff's Office","Firearm"
+"1015","Michael Bartkiewicz","52","Male","White","November","13","2015","26 Petty Ln","Trenton","TN","Gunshot","Gibson County Sheriff's Office","Non-lethal firearm"
 "1017","Ramon Salazar","31","Male","Hispanic/Latino","November","14","2015","2985 Rubidoux Blvd","Riverside","CA","Gunshot","Riverside County Sheriff's Department","Other"
 "1019","Richard Perkins","39","Male","Black","November","15","2015","90th Ave and Bancroft Ave","Oakland","CA","Gunshot","Oakland Police Department","Non-lethal firearm"
 "1024","Jamar Clark","24","Male","Black","November","15","2015","1600 Plymouth Ave N","Minneapolis","MN","Gunshot","Minneapolis Police Department","No"
