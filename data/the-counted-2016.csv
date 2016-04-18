@@ -302,5 +302,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016303","Clemente Najeda","38","Male","Unknown","April","15","2016","300 W Heald Ave","Lake Elsinore","CA","Gunshot","Lake Elsinore Police Department","Other"
 "2016304","Gerald Boyes","52","Male","White","April","16","2016","26211 Illinois Route 173","Antioch","IL","Gunshot","Lake County Sheriff's Office, McHenry County Sheriff's Office","Firearm"
 "2016305","Kisha Arrone","35","Female","Black","April","17","2016","3100 Wexford Pl","Dayton","OH","Gunshot","Dayton Police Department","Firearm"
-"2016306","Unknown","32","Male","Unknown","April","17","2016","116th Ave and 135th St","South Ozone Park","NY","Gunshot","New York Police Department","Firearm"
+"2016306","George Tillman","32","Male","Unknown","April","17","2016","116th Ave and 135th St","South Ozone Park","NY","Gunshot","New York Police Department","Firearm"
 "2016307","Richard Bard Jr","31","Male","Black","April","17","2016","S East Ave and Almond St","Vineland","NJ","Gunshot","Vineland Police Department","Firearm"
+"2016308","Edson Thevenin","38","Male","Black","April","17","2016","6th Ave","Troy","NY","Gunshot","Troy Police Department","Vehicle"
+"2016309","Eric Wilson","22","Male","Unknown","April","17","2016","7200 Tierra Taos Dr","El Paso","TX","Gunshot","El Paso Police Department","No"
