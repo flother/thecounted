@@ -322,7 +322,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016323","Jakob Wagner","18","Male","White","April","23","2016","1900 10th Ave","Antigo","WI","Gunshot","Antigo Police Department","Firearm"
 "2016324","Demarcus Semer","21","Male","Black","April","23","2016","Ave G and N 19th St","Fort Pierce","FL","Gunshot","Fort Pierce Police Department","Unknown"
 "2016325","Eric Wakup","30","Male","White","April","23","2016","1300 Church St","Norfolk","VA","Gunshot","Norfolk Police Department","Firearm"
-"2016326","Bradford Macomber","53","Male","Unknown","April","24","2016","1724 Beach Blvd","Gulfport","MS","Taser","Gulfport Police Department","No"
+"2016326","Bradford Macomber","53","Male","White","April","24","2016","1724 Beach Blvd","Gulfport","MS","Taser","Gulfport Police Department","No"
 "2016327","Kay Campbell","60","Female","Unknown","April","25","2016","422 E Blue Ridge Rd","East Flat Rock","NC","Gunshot","Henderson County Sheriff's Office","Unknown"
 "2016328","Unknown","Unknown","Female","Unknown","April","26","2016","5800 Eubank Blvd NE","Albuquerque","NM","Gunshot","Bernalillo County Sheriff's Department","Firearm"
 "2016329","Joshua Brooks","26","Male","Unknown","April","26","2016","1300 Hawthorne Dr","Chesapeake","VA","Gunshot","Chesapeake Police Department","Firearm"
