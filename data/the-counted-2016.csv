@@ -192,7 +192,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016192","Jeffrey Casale","27","Male","White","March","8","2016","Swallowtail Ct","Tampa","FL","Gunshot","Hillsborough County Sheriff's Office","Non-lethal firearm"
 "2016193","Daniel Chavez","41","Male","Hispanic/Latino","March","7","2016","N Happy Valley Rd and W Texas St","Carlsbad","NM","Gunshot","Carlsbad Police Department, Eddy County Sheriff's Office","Unknown"
 "2016194","Alex Thompson","37","Male","White","March","3","2016","Country Store Rd and US-70","Selma","NC","Taser","Kenly Police Department","No"
-"2016195","Jose Cordoba","28","Male","Hispanic/Latino","March","7","2016","El Dorado St and E Clay St","Stockton","CA","Taser","Stockton Police Department","No"
 "2016196","Jason Meador","50","Male","White","March","10","2016","1200 Douglas Dr","Odessa","TX","Gunshot","Odessa Police Department","Firearm"
 "2016197","Arteair Porter Jr","22","Male","Unknown","March","10","2016","Lemmon Dr","Reno","NV","Gunshot","Reno Police Department, Sparks Police Department, Washoe County Sheriff's Office","Non-lethal firearm"
 "2016198","Wesley Sheppard","37","Male","White","March","10","2016","Popps Ferry Bridge","Biloxi","MS","Gunshot","Biloxi Police Department","Firearm"
@@ -351,3 +350,4 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016352","Richard Ferretti","52","Male","White","May","4","2016","Overbrook Avenue and Lancaster Avenue","Philadelphia","PA","Gunshot","Philadelphia Police Department","Vehicle"
 "2016353","Gerry Thompson","40","Male","White","May","4","2016","","Buffalo","MO","Gunshot","Missouri State Highway Patrol","Unknown"
 "2016354","Unknown","Unknown","Male","Unknown","May","4","2016","32600 Hislop Way","Temecula","CA","Gunshot","Temecula Police Department","Knife"
+"2016355","Unknown","Unknown","Female","Unknown","May","5","2016","West Colonial Dr","Orlando","FL","Gunshot","Orange County Sheriff's Office","Firearm"
