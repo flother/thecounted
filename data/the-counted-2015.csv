@@ -707,7 +707,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "705","Roderick Burr","33","Male","Unknown","August","8","2015","3rd St","Brookshire","TX","Gunshot","Brookshire Police Department","Firearm"
 "707","Kevin McDaniel","46","Male","White","August","8","2015","N Standard St and E Sanson Ave","Spokane","WA","Gunshot","Spokane Police Department","Firearm"
 "711","Edrian Rivera","22","Male","Hispanic/Latino","August","9","2015","San Antonio Ave and Packing Pl","San Jose","CA","Gunshot","San Jose Police Department","Knife"
-"709","Eric Tompkins","41","Male","White","August","9","2015","1000 Bailey St SE","Ardmore","OK","Gunshot","Ardmore Police Department","Unknown"
+"709","Eric Tompkins","41","Male","White","August","9","2015","1000 Bailey St SE","Ardmore","OK","Gunshot","Ardmore Police Department","No"
 "712","Robert Quinn","77","Male","Unknown","August","9","2015","101 N Main St","Pittston","PA","Gunshot","Pittston Police Department","Non-lethal firearm"
 "713","Richard Young","24","Male","White","August","10","2015","E Guadalupe Rd and N Val Vista Dr","Gilbert","AZ","Gunshot","Gilbert Police Department","Vehicle"
 "710","Andre Green","15","Male","Black","August","10","2015","3300 N Butler Ave","Indianapolis","IN","Gunshot","Indianapolis Metropolitan Police Department","Vehicle"
