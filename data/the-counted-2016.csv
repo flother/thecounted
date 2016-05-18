@@ -375,3 +375,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016377","James Simpson","31","Male","Black","March","31","2016","9898 N Fast Elk St","Las Vegas","NV","Gunshot","Las Vegas Metropolitan Police Department","Firearm"
 "2016378","Michael Gaffney","37","Male","White","May","13","2016","999 Rosemont Ave N","Union","NJ","Gunshot","Newark Police Department","Unknown"
 "2016379","Cody Marsh","19","Male","White","May","14","2016","253 E State St","Jacksonville","FL","Gunshot","Jacksonville Sheriff's Office","Knife"
+"2016380","Scott Macomber","48","Male","Unknown","May","16","2016","Bay St","Fall River","MA","Taser","Fall River Police Department","No"
+"2016381","Jabril Robinson","23","Male","Black","May","16","2016","1500 Cheryl Leigh Dr","Riverdale","GA","Gunshot","Clayton County Police Department","Firearm"
+"2016382","Dracy Pendleton","35","Male","White","May","15","2016","Shawnee National Forest","Eddyville","IL","Gunshot","Illinois State Police, FBI","Firearm"
