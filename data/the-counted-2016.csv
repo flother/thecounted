@@ -540,7 +540,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016544","Steven McQueen","30","Male","White","July","1","2016","11 Parmenter St","Cartersville","GA","Gunshot","Cartersville Police Department and Bartow County Sheriff's Office","Firearm"
 "2016545","Alexis Mishtowt","63","Male","White","July","1","2016","200 Bird Mountain Rd","Landrum","SC","Gunshot","Spartanburg County Sheriff's Office","Unknown"
 "2016546","Helmut Wihowski","58","Male","Unknown","July","1","2016","Stonewall Dr","Jackson","WI","Gunshot","Jackson Police Department and Washington County Sheriff's Office","Unknown"
-"2016547","Jonathan Justice","50","Male","Unknown","July","2","2016","1403 Bluff City Hwy","Bristol","TN","Gunshot","Bristol Police Department","Firearm"
+"2016547","Jonathan Justice","50","Male","White","July","2","2016","1403 Bluff City Hwy","Bristol","TN","Gunshot","Bristol Police Department","Firearm"
 "2016548","Jai Williams","35","Male","Black","July","2","2016","275 Deaverview Rd","Asheville","NC","Gunshot","Asheville Police Department","Firearm"
 "2016549","Lafayette Evans","37","Male","Black","June","29","2016","1206 48th St","Fort Madison","IA","Gunshot","Fort Madison Police Department","Firearm"
 "2016550","Keith Bursey","31","Male","Black","June","10","2016","Slauson Ave and Brynhurst Ave","Los Angeles","CA","Gunshot","Los Angeles Police Department","Firearm"
@@ -597,3 +597,4 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016601","Patrick Fennell","57","Male","White","July","16","2016","Sycamore Dr","Little Egg Harbor Township","NJ","Gunshot","Unknown","Firearm"
 "2016602","Jerry Brimer","56","Male","White","July","18","2016","2300 W 44th St","Tulsa","OK","Gunshot","Tulsa Police Department","Other"
 "2016603","Patrick O'Rourke","50","Male","Unknown","July","17","2016","Louisiana Hwy 16","Port Vincent","LA","Taser","Louisiana State Police","Other"
+"2016604","Unknown","Unknown","Male","Unknown","July","20","2016","1400 S Broadway and W Enos Drive","Santa Maria","CA","Gunshot","Santa Maria Police Department","Knife"
