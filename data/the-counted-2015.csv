@@ -370,7 +370,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "376","Elton Simpson","30","Male","Black","May","3","2015","4999 Naaman Forest Blvd","Garland","TX","Gunshot","Garland Police Department","Firearm"
 "377","Nadir Soofi","34","Male","Asian/Pacific Islander","May","3","2015","4999 Naaman Forest Blvd","Garland","TX","Gunshot","Garland Police Department","Firearm"
 "378","Kevin Norton","36","Male","White","May","3","2015","210 W 300 N","Roosevelt","UT","Gunshot","Roosevelt Police Department","Firearm"
-"379","Billy Grimm","44","Male","White","May","3","2015","Arenal Rd SW and Tapia Blvd SW","Albuquerque","NM","Gunshot","Bernalillo County Sheriff's Department","Disputed"
+"379","Billy Grimm","44","Male","White","May","3","2015","Arenal Rd SW and Tapia Blvd SW","Albuquerque","NM","Gunshot","Bernalillo County Sheriff's Department","Firearm"
 "380","Roark Cook","36","Male","White","May","4","2015","3320 W 9th Ave","Kennewick","WA","Gunshot","Benton County Sheriff's Office, Richland Police Department","Non-lethal firearm"
 "381","Michael Asher","53","Male","White","May","4","2015","Doctors Row","Chavies","KY","Gunshot","Kentucky State Police","Firearm"
 "382","Thong Kien Ma","32","Male","Asian/Pacific Islander","May","5","2015","10400 Enloe St","South El Monte","CA","Gunshot","Los Angeles County Sheriff's Department","Knife"
@@ -1144,3 +1144,4 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "1172","Kevin Higgenbotham","46","Male","Black","June","15","2015","200 Bellevue Ave","Trenton","NJ","Death in custody","Trenton Police Department","No"
 "1173","John Tozzi","61","Male","White","October","24","2015","NY-32 South","New Paltz","NY","Gunshot","New Paltz Police Department","Firearm"
 "1174","Adrian Campbell","24","Male","Black","September","21","2015","1800 66th St","Lubbock","TX","Death in custody","Lubbock Police Department","No"
+"1175","Anthony Marino","58","Male","White","February","15","2015","18422 Bear Valley Rd","Victorville","CA","Death in custody","Victor Valley College Police Department","No"
