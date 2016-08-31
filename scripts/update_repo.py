@@ -392,7 +392,7 @@ def main():
     via a push notification.
     """
     with io.BytesIO(get_zip()) as fh, CountedZipFile(fh) as zf:
-        if True or zf.is_dirty():
+        if zf.is_dirty():
             for data in zf.files():
                 if data.is_dirty():
                     data.commit()
