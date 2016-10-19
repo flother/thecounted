@@ -859,3 +859,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016867","Unknown","28","Male","Black","October","18","2016","E Empire Ave and Pavone St","Benton Harbor","MI","Gunshot","Benton Harbor Department of Public Safety","Firearm"
 "2016868","Keagan Schweikle","17","Male","Unknown","October","17","2016","1200 River St","Benton","AR","Gunshot","Benton Police Department","Firearm"
 "2016869","Unknown","Unknown","Male","Unknown","October","18","2016","4300 S 170th E Ave","Tulsa","OK","Gunshot","Tulsa Police Department","Firearm"
+"2016870","Deborah Danner","66","Female","Black","October","18","2016","Pugsley Ave","Bronx","NY","Gunshot","New York Police Department","Other"
+"2016871","Charles Stidham","34","Male","Unknown","October","18","2016","1900 Brent St","Paris","KY","Gunshot","Paris Police Department","Firearm"
+"2016872","Anthony Garcia","24","Male","Hispanic/Latino","October","19","2016","3500 Virginia Blvd","Dallas","TX","Gunshot","Dallas Police Department","Firearm"
