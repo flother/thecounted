@@ -941,3 +941,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016950","Steve Vananda","56","Male","Unknown","November","19","2016","1900 W Montana Ave","Chickasha","OK","Gunshot","Chickasha Police Department","Firearm"
 "2016951","Luke Smith","15","Male","Unknown","November","19","2016","800 Amesti Rd","Watsonville","CA","Gunshot","Santa Cruz County Sheriff's Office","Knife"
 "2016952","Erickson Brito","21","Male","Black","November","19","2016","362 Sutter Ave","Brooklyn","NY","Gunshot","New York Police Department","Other"
+"2016953","Adalid Flores","29","Male","Unknown","November","19","2016","1300 N East St","Anaheim","CA","Gunshot","Anaheim Police Department","Unknown"
+"2016954","Unknown","25","Male","Hispanic/Latino","November","20","2016","5800 Shadow Glen","San Antonio","TX","Gunshot","San Antonio Police Department","Firearm"
+"2016955","George Bush III","19","Male","Unknown","November","21","2016","Smiley Ave and Leola Ave","St Louis","MO","Gunshot","St Louis Metropolitan Police Department","Firearm"
