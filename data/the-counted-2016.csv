@@ -1025,3 +1025,6 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "20161033","Unknown","30s","Male","Unknown","December","13","2016","Cherry St","Hampton","GA","Gunshot","Henry County Police Department","Firearm"
 "20161034","Unknown","Unknown","Male","Unknown","December","13","2016","2500 W North Ave","Baltimore","MD","Gunshot","Coppin State Police Department","Firearm"
 "20161035","Unknown","Unknown","Male","Unknown","December","15","2016","15600 Windrush Dr","Hacienda Heights","CA","Gunshot","Los Angeles County Sheriff's Department","Firearm"
+"20161036","Jeremiah Anderson","36","Male","White","December","16","2016","321 NE Kings Valley Hwy","Dallas","OR","Gunshot","Dallas Police Department","Firearm"
+"20161037","Unknown","44","Unknown","Unknown","December","17","2016","3900 Grand Ave","Everett","WA","Gunshot","Lynnwood Police Department","Unknown"
+"20161038","Jimmy Lawson","48","Male","White","December","17","2016","9591 Osborn Rd","Arlington","TN","Gunshot","Shelby County Sheriff's Office","Knife"
