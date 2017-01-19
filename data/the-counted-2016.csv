@@ -687,7 +687,7 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "2016692","Kole Knight","31","Male","White","August","19","2016","Algoma St and Wallace St","New London","WI","Gunshot","New London Police Department","Non-lethal firearm"
 "2016693","Kyle Zimbelman","29","Male","White","August","19","2016","N Virginia St and Stead Blvd","Reno","NV","Gunshot","Washoe County Sheriff's Office","Unknown"
 "2016694","David Klassen","29","Male","White","August","19","2016","Carrizo Canyon Rd","Ruidoso","NM","Gunshot","Ruidoso Police Department","Firearm"
-"2016695","Todd Browning","54","Male","White","August","19","2016","1700 Prigmore Rd","Chattanooga","TN","Gunshot","East Ridge Police Department","Knife"
+"2016695","Todd Browning","54","Male","White","August","19","2016","1700 Prigmore Rd","Chattanooga","TN","Gunshot","East Ridge Police Department","Other"
 "2016696","Brandon Coles","25","Male","Black","August","21","2016","15700 Allen Dr","Dinwiddie","VA","Gunshot","Dinwiddie County Sheriff's Office","Firearm"
 "2016697","Pedro Montanez","71","Male","Hispanic/Latino","August","21","2016","Jackson St and Dillon Ave","Indio","CA","Gunshot","Indio Police Department","Knife"
 "2016698","Daniel Harris","29","Male","White","August","18","2016","Rocky River Rd and Interstate 485","Charlotte","NC","Gunshot","North Carolina State Highway Patrol","No"
@@ -1090,3 +1090,4 @@ uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classi
 "20161099","William Ferguson","Unknown","Male","Unknown","June","25","2016","S Watson Rd and W Southern Ave","Buckeye","AZ","Gunshot","Buckeye Police Department","Firearm"
 "20161100","Elaine Merritt","52","Female","White","October","22","2016","US-231 and Cambridge Dr","Wetumpka","AL","Struck by vehicle","Wetumpka Police Department","No"
 "20161101","Wade Kloesel","27","Male","White","April","16","2016","100 Clydesdale Ln","Victoria","TX","Gunshot","Refugio County Sheriff's Office","No"
+"20161102","Jaquar Mathis","21","Male","Black","October","7","2016","700 Poinsettia Ave","Sebring","FL","Gunshot","Highlands County Sheriff's Office","Unknown"
